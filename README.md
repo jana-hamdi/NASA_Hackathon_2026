@@ -8,6 +8,11 @@
 
 ---
 
+### Interactive Web Platform & New Discoveries
+The results are published as **SpaceMirror**, an interactive web app (`webapp/`): select a lunar target, re-weight five similarity metrics live, filter and search sites, view satellite maps and read a scientific dossier for each match. Of the 14 ranked Earth sites, **11 are new analog candidates found by our approach**.
+
+🔗 **Live demo:** https://jana-hamdi.github.io/NASA_Hackathon_2026/
+
 ## 📑 Table of Contents
 - [Executive Overview](#-executive-overview)
 - [System Architecture](#-system-architecture)
