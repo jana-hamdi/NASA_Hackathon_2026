@@ -251,10 +251,10 @@ This pipeline cross-references candidates with operational NASA and ESA terrestr
 
 * **Challenge:** NASA Space Apps Challenge 2026
 * **Team:** Senior Data Analyst & Machine Learning Engineering Lead
-* **Data Sources:** NASA Planetary Data System (PDS) Geosciences Node (LRO LOLA), USGS EROS Data Center (SRTM).
+* **Data Sources:** NASA Planetary Data System (PDS)/(NASADEM) Geosciences Node (LRO LOLA), USGS EROS Data Center (SRTM).
 
 ---
-*Developed for the NASA Space Apps Challenge 2026. Code and documentation released under the MIT License.*
+*Developed for the NASA Space Apps Challenge 2026.*
 
 ## Contributors
 
