@@ -85,16 +85,15 @@ The engine identified high-fidelity terrestrial analogs across the two primary l
 
 ### Top Matched Planetary Analog Pairs
 
-| Lunar Base Candidate Site | Lunar Coordinates | Matched Earth Analog Site | Earth Coordinates | PTSI Score | Cosine Sim | Earth Slope | Lunar Slope | Earth Relief | Lunar Relief | Operational Habitat Utility |
-| :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| **Connecting Ridge** | -89.40°, 222.00° | **Mistastin Lake Crater**, Canada | 55.883°, -63.300° | **92.88%** | 0.9828 | 11.20° | 11.66° | 2850 m | 3704 m | Peak of Eternal Light & Telemetry Analog |
-| **Peak Near Shackleton** | -88.90°, 124.50° | **Haughton Crater (Devon Island)**, Canada | 75.380°, -89.670° | **85.83%** | 0.9442 | 8.90° | 8.47° | 1940 m | 3074 m | Polar Lighting & Cold-Trap Ridge Analog |
-| **Marius Hills Skylight** | +14.20°, 303.20° | **Holuhraun Basalt Plain**, Iceland | 64.850°, -16.830° | **85.02%** | 0.7066 | 1.20° | 0.89° | 140 m | 477 m | Sub-surface Radiation Sheltered Habitat |
-| **Malapert Massif** | -85.99°, 357.07° | **Asgard Range, Dry Valleys**, Antarctica | -77.750°, 161.500° | **80.36%** | 0.9656 | 14.10° | 12.67° | 4480 m | 4974 m | Direct-to-Earth Telemetry Station Analog |
-| **Mare Tranquillitatis Pit**| +8.33°, 33.22° | **Holuhraun Basalt Plain**, Iceland | 64.850°, -16.830° | **79.77%** | 0.7309 | 1.20° | 0.19° | 140 m | 106 m | Basaltic Mare Landing & Excavation Zone |
-| **Nobile Rim 1** | -85.20°, 37.80° | **Asgard Range, Dry Valleys**, Antarctica | -77.750°, 161.500° | **78.76%** | 0.9178 | 14.10° | 13.10° | 4480 m | 6320 m | Rolling Degraded Polar Highland Terrain |
-| **Faustini Rim A** | -87.30°, 77.00° | **Haughton Crater (Devon Island)**, Canada | 75.380°, -89.670° | **78.37%** | 0.8952 | 8.90° | 8.13° | 1940 m | 3501 m | Degraded Impact Crater Traverse Analog |
-| **Mons Mouton** | -84.80°, 31.70° | **Corona Lava Tubes (Lanzarote)**, Spain | 29.145°, -13.480° | **67.19%** | 0.6850 | 3.10° | 4.78° | 380 m | 1951 m | Elevated Plateau Base Camp Testbed |
+| Earth Analog Site | Country | Coordinates | Best-Matched Lunar Target | Match Score | Earth Slope |
+| --- | --- | --- | --- | --- | --- |
+| Mistastin Lake Impact Crater (benchmark) | Canada | 55.883, -63.300 | Mare Tranquillitatis Pit | 81.9% | 1.10° |
+| Brazil raw-DEM blocks (8 sites) | Brazil (Pará) | -0.88 to -0.96, -46.71 to -46.96 | Mare Tranquillitatis Pit | 72.3 – 76.0% | 1.56 – 2.16° |
+| Barringer Meteor Crater (benchmark) | USA | 35.027, -111.022 | Marius Hills Volcanic Dome | 75.0% | 2.97° |
+| Bahariya Black Desert Volcanic Field (new) | Egypt | 28.365, 28.845 | Marius Hills Volcanic Dome | 74.7% | 2.65° |
+| Djara Stalactite Subsurface Cave (new) | Egypt | 27.380, 29.805 | Mare Tranquillitatis Pit | 72.7% | 2.19° |
+| Gebel Qatrani Basalt Flows (new) | Egypt | 29.645, 30.590 | Marius Hills Volcanic Dome | 70.3% | 4.09° |
+| Mauna Kea Volcanic Massif (benchmark) | USA (Hawaii) | 19.820, -155.468 | Peak Near Shackleton | 62.7% | 10.52° |
 
 > Complete bounding boxes, lithological descriptions, and trafficability ratings are saved in [`outputs/terrestrial_lunar_analogs.csv`](outputs/terrestrial_lunar_analogs.csv).
 
