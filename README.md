@@ -2,7 +2,6 @@
 
 [![NASA Space Apps Challenge 2026](https://img.shields.io/badge/NASA%20Space%20Apps-2026-blue.svg)](https://www.spaceappschallenge.org/)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%20%7C%203.14-brightgreen.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Production Ready](https://img.shields.io/badge/Status-Complete%20%26%20Validated-success.svg)](#key-results)
 
 > **Objective:** Discover, characterize, and validate terrestrial analog sites on Earth that closely match the topography of permanent Moon base candidate locations using Elevation Data Models (EDMs), geomorphological feature extraction, and multi-objective Machine Learning topological similarity matching.
@@ -262,12 +261,10 @@ This pipeline cross-references candidates with operational NASA and ESA terrestr
 
 Developed by a multidisciplinary team from **Alexandria University, Faculty of Science, Software Industry and Multimedia Department**, working across AI, data analysis, and web development.
 
-### Analysis & AI Team
+Full Team
 - Jana Hamdy
 - Mariam Isaac
 - Basmala Hussein
-
-### Web Development Team
 - Salma Hany
 - Roaa Haitham
 - Habiba Hossam
